@@ -10,4 +10,9 @@ namespace Course.Controllers
             return View();
         }
     }
+
+    public IActionResult Detail()
+    {
+        return View();
+    }
 }

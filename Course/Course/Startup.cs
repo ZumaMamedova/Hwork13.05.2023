@@ -34,7 +34,7 @@ namespace Course
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern:"{controller}/{action}"
+                    pattern:"{controller}/{action}/{id?}"
                     );
             });
         }

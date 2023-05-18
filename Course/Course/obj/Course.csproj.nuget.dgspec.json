@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\User\\Desktop\\Main\\BackEnd\\HWork13.05.2023\\Course\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\User\\Desktop\\Main\\BackEnd\\HWork13.05.2023\\Course\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Main\\BackEnd\\HWork13.05.2023\\Course\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Users\\User\\Desktop\\Course\\Course\\Course.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Main\\BackEnd\\HWork13.05.2023\\Course\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Course\\Course\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Main\\BackEnd\\HWork13.05.2023\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

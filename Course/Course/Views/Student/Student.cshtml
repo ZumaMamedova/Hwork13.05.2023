@@ -1,0 +1,7 @@
+﻿@using Course.ViewModels
+@Model HomeVm;
+
+    @foreach(var item in Model.Students)
+    {
+        <p>@item.Id</p>
+    }
